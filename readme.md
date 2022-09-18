@@ -1,5 +1,5 @@
 # Тестовое задание Vladlink
-### QUICK NOTE: В файле categories.json заменила поле **childrens** на **children**
+### QUICK NOTE: В файле categories.json заменила поле `childrens` на `children`
 Порядок запуска проекта:
 1. В директории проекта выполнить команду `composer update`
 2. Скопировать файл `.env.example` в файл `.env` и заполнить значения переменных.
